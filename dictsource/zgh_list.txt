@@ -226,7 +226,7 @@ _roman  aru.ma.ni
 
 _#st    amzwaru
 _#nd    wisː||sin
-_#rd    wisː||kra.D
+_##rd    wisː||kra.D
 _#th    wisː
 
 
